@@ -1,0 +1,2 @@
+model_checkpoint_path: "learning_rate_0.001_15"
+all_model_checkpoint_paths: "learning_rate_0.001_15"

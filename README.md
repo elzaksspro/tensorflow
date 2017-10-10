@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Tensorflow,Zero To One
-========
-
 Tensorflow for most common model production ready  [tensorflow](https://github.com/evalsocket/tensorflow/): Free Tensorflow model production ready 
 
 ## Table of contents
@@ -29,6 +25,3 @@ To install the frontend please do the following:
 
 
 
-=======
-# tensorflow
->>>>>>> 7d1d24f8f7287a770182bef01dd71f75244c24cb
